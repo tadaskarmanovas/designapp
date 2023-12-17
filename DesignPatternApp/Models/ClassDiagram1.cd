@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DesignPatternApp.Models.Archer">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <Members>
+      <Method Name="Archer" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Archer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatternApp.Models.Mage">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <Members>
+      <Method Name="Mage" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Models\Mage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatternApp.Models.Warrior">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <Members>
+      <Method Name="Warrior" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Warrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatternApp.Models.Character">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="GetRoleAttributeNames" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAGAAAAIAAEAABgAIAAAQAIIBAAAAAAAAQEAAAQAA=</HashCode>
+      <FileName>Models\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
